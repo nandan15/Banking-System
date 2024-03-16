@@ -1,0 +1,19 @@
+C:\Users\Nandan\source\repos\Bank account Management Sytem\Bank account Management Sytem\bin\Debug\Bank account Management Sytem.exe.config
+C:\Users\Nandan\source\repos\Bank account Management Sytem\Bank account Management Sytem\bin\Debug\Bank account Management Sytem.exe
+C:\Users\Nandan\source\repos\Bank account Management Sytem\Bank account Management Sytem\bin\Debug\Bank account Management Sytem.pdb
+C:\Users\Nandan\source\repos\Bank account Management Sytem\Bank account Management Sytem\obj\Debug\Bank account Management Sytem.csprojAssemblyReference.cache
+C:\Users\Nandan\source\repos\Bank account Management Sytem\Bank account Management Sytem\obj\Debug\Bank_account_Management_Sytem.ChangePin.resources
+C:\Users\Nandan\source\repos\Bank account Management Sytem\Bank account Management Sytem\obj\Debug\Bank_account_Management_Sytem.Properties.Resources.resources
+C:\Users\Nandan\source\repos\Bank account Management Sytem\Bank account Management Sytem\obj\Debug\Bank account Management Sytem.csproj.GenerateResource.cache
+C:\Users\Nandan\source\repos\Bank account Management Sytem\Bank account Management Sytem\obj\Debug\Bank account Management Sytem.csproj.CoreCompileInputs.cache
+C:\Users\Nandan\source\repos\Bank account Management Sytem\Bank account Management Sytem\obj\Debug\Bank account Management Sytem.exe
+C:\Users\Nandan\source\repos\Bank account Management Sytem\Bank account Management Sytem\obj\Debug\Bank account Management Sytem.pdb
+C:\Users\Nandan\source\repos\Bank account Management Sytem\Bank account Management Sytem\obj\Debug\Bank_account_Management_Sytem.account.resources
+C:\Users\Nandan\source\repos\Bank account Management Sytem\Bank account Management Sytem\obj\Debug\Bank_account_Management_Sytem.AccountReview.resources
+C:\Users\Nandan\source\repos\Bank account Management Sytem\Bank account Management Sytem\obj\Debug\Bank_account_Management_Sytem.Balance.resources
+C:\Users\Nandan\source\repos\Bank account Management Sytem\Bank account Management Sytem\obj\Debug\Bank_account_Management_Sytem.HOME.resources
+C:\Users\Nandan\source\repos\Bank account Management Sytem\Bank account Management Sytem\obj\Debug\Bank_account_Management_Sytem.Login.resources
+C:\Users\Nandan\source\repos\Bank account Management Sytem\Bank account Management Sytem\obj\Debug\Bank_account_Management_Sytem.Withdraw.resources
+C:\Users\Nandan\source\repos\Bank account Management Sytem\Bank account Management Sytem\obj\Debug\Bank account Management Sytem.csproj.CopyComplete
+C:\Users\Nandan\source\repos\Bank account Management Sytem\Bank account Management Sytem\obj\Debug\Bank_account_Management_Sytem.Deposit.resources
+C:\Users\Nandan\source\repos\Bank account Management Sytem\Bank account Management Sytem\obj\Debug\Bank_account_Management_Sytem.Loading.resources
